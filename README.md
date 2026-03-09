@@ -1,1 +1,2 @@
 # Face-recognition
+The objective of this research is to architect and validate an enhanced LBPH-based FR system that specifically mitigates training bias and temporal instability, thereby achieving high reliability without sacrificing the algorithm's inherent computational efficiency. We aim to transform a fast, but fundamentally unstable, algorithm into a robust, enterprise-ready real-time solution.
